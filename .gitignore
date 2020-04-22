@@ -1,2 +1,5 @@
 .env
-node_modulessendgrid.env
+node_modules
+sendgrid.env
+node_modules/
+node_modules*
